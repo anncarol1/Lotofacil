@@ -1,3 +1,4 @@
+LOTOFÁCIL
 Este é um pequeno projeto em Java que simula um jogo de apostas. O jogador pode escolher entre três tipos de apostas diferentes e ganhar ou perder dinheiro com base em suas escolhas. As opções de apostas incluem:
 
 Apostar de 0 a 100: O jogador deve adivinhar um número aleatório entre 0 e 100. Se acertar, ganha R$ 1.000,00.
